@@ -1,1 +1,1 @@
-celaraze/cat:latest
+python:3.7
