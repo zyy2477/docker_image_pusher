@@ -1,1 +1,9 @@
-python:3.7
+goharbor/harbor-log:v2.12.4
+goharbor/registry-photon:v2.12.4
+goharbor/harbor-registryctl:v2.12.4
+goharbor/harbor-db:v2.12.4
+goharbor/harbor-core:v2.12.4
+goharbor/harbor-portal:v2.12.4
+goharbor/harbor-jobservice:v2.12.4
+goharbor/redis-photon:v2.12.4
+goharbor/nginx-photon:v2.12.4
