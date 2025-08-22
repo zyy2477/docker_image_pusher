@@ -1,1 +1,1 @@
-jenkins/jenkins:2.502
+nginx:1.24.0
